@@ -1,3 +1,6 @@
 def bubble_sort(unsorted_list):
     # TODO: Implement bubble sort
-    pass
+    n = len(unsorted_list)
+    for i in range(n):
+        swapped = False
+    
